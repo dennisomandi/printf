@@ -1,2 +1,2 @@
 # printf
-group project for the print assignment 19.04.22
+group project for the printf assignment 19.04.22
