@@ -24,8 +24,7 @@ ph func_arr[] = {
 {'R', print_rot13},
 {'r', print_rev},
 {'S', print_bigS},
-{'p', print_address},
-{'%', print_percent}
+{'p', print_address}
 };
 int flags = 14;
 register int i;
